@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.ccf5c2d1.css",
-    "main.js": "/static/js/main.43278ad5.js",
-    "static/js/787.6631a9a6.chunk.js": "/static/js/787.6631a9a6.chunk.js",
-    "static/media/portfolio-image.png": "/static/media/portfolio-image.749c3f342ead63c4902f.png",
-    "static/media/CFM-image.png": "/static/media/CFM-image.ba1fb9b6d18565602ac3.png",
-    "static/media/tdl-image.png": "/static/media/tdl-image.74dba983722d86d37448.png",
-    "static/media/EF-image.png": "/static/media/EF-image.47f2d14e6ffb2cab7c14.png",
-    "static/media/gym.jpg": "/static/media/gym.443f6f248ad2d20a1c13.jpg",
-    "static/media/about-img.jpg": "/static/media/about-img.025aa9145b677edc7c17.jpg",
-    "static/media/IMG_0265.jpg": "/static/media/IMG_0265.1926820bae970126920b.jpg",
-    "static/media/real-madrid-img.jpg": "/static/media/real-madrid-img.1db1352c69a645c62110.jpg",
-    "static/media/MM-image.png": "/static/media/MM-image.dbacad2f0f4384a2edb1.png",
-    "static/media/Nghia_Hoang_Resume.pdf": "/static/media/Nghia_Hoang_Resume.1a8d2a13605e3203cc4a.pdf",
-    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
-    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
-    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
-    "index.html": "/index.html",
-    "main.ccf5c2d1.css.map": "/static/css/main.ccf5c2d1.css.map",
-    "main.43278ad5.js.map": "/static/js/main.43278ad5.js.map",
-    "787.6631a9a6.chunk.js.map": "/static/js/787.6631a9a6.chunk.js.map"
+    "main.css": "/nghiahoang-43/static/css/main.b03521f3.css",
+    "main.js": "/nghiahoang-43/static/js/main.d6fb0615.js",
+    "static/js/787.6631a9a6.chunk.js": "/nghiahoang-43/static/js/787.6631a9a6.chunk.js",
+    "static/media/portfolio-image.png": "/nghiahoang-43/static/media/portfolio-image.749c3f342ead63c4902f.png",
+    "static/media/CFM-image.png": "/nghiahoang-43/static/media/CFM-image.ba1fb9b6d18565602ac3.png",
+    "static/media/tdl-image.png": "/nghiahoang-43/static/media/tdl-image.74dba983722d86d37448.png",
+    "static/media/EF-image.png": "/nghiahoang-43/static/media/EF-image.47f2d14e6ffb2cab7c14.png",
+    "static/media/gym.jpg": "/nghiahoang-43/static/media/gym.443f6f248ad2d20a1c13.jpg",
+    "static/media/about-img.jpg": "/nghiahoang-43/static/media/about-img.025aa9145b677edc7c17.jpg",
+    "static/media/IMG_0265.jpg": "/nghiahoang-43/static/media/IMG_0265.1926820bae970126920b.jpg",
+    "static/media/real-madrid-img.jpg": "/nghiahoang-43/static/media/real-madrid-img.1db1352c69a645c62110.jpg",
+    "static/media/MM-image.png": "/nghiahoang-43/static/media/MM-image.dbacad2f0f4384a2edb1.png",
+    "static/media/Nghia_Hoang_Resume.pdf": "/nghiahoang-43/static/media/Nghia_Hoang_Resume.1a8d2a13605e3203cc4a.pdf",
+    "static/media/revicons.eot": "/nghiahoang-43/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/nghiahoang-43/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/nghiahoang-43/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/nghiahoang-43/index.html",
+    "main.b03521f3.css.map": "/nghiahoang-43/static/css/main.b03521f3.css.map",
+    "main.d6fb0615.js.map": "/nghiahoang-43/static/js/main.d6fb0615.js.map",
+    "787.6631a9a6.chunk.js.map": "/nghiahoang-43/static/js/787.6631a9a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ccf5c2d1.css",
-    "static/js/main.43278ad5.js"
+    "static/css/main.b03521f3.css",
+    "static/js/main.d6fb0615.js"
   ]
 }
