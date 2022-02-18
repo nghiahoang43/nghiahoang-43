@@ -1,0 +1,94 @@
+.about-bg {
+  height: 100vh;
+  background-color: #A267AC;
+  display: flex;
+  justify-content: center;
+}
+
+.about-ctn {
+  width: 80%;
+  background-color: white;
+  margin: 30px 0;
+  border-radius: 15px;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Merriweather', serif;
+  font-weight: bold;
+  text-align: left;
+  line-height: 2;
+  display: flex;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0.5,0.5);
+  overflow: hidden;
+}
+
+.about-img {
+  overflow: hidden;
+  height: 100%;
+  width: 100%;
+  margin-right: 50px;
+}
+
+.about-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.about-footer {
+  display: flex;
+}
+
+.about-desc {
+  padding: 30px 0;
+}
+
+.about-desc h1 {
+  font-size: 50px;
+  margin-bottom: 30px;
+}
+
+.about-desc span {
+  padding-top: 10px;
+}
+
+.contact {
+  margin-top: 5px;
+}
+
+.contact-icon {
+  cursor: pointer;
+  text-decoration: none;
+  color: black;
+}
+
+.resume-icn:hover {
+  color: #24A19C;
+}
+
+.gh-icn:hover {
+  color: #7A0BC0;
+}
+
+.linkedin-icn:hover {
+  color: #1C6DD0;
+}
+
+.gmail-icn:hover {
+  color: #FF6363;
+}
+
+@media screen and (max-width: 800px) {
+  .about-ctn {
+    display: block;
+    overflow: scroll;
+    overflow-x: hidden; /* Hide horizontal scrollbar */
+  }
+
+  .about-img{
+    height: 25%;
+  }
+
+  .about-desc {
+    padding: 20px;
+  }
+}

@@ -1,0 +1,123 @@
+.intro-bg h1 {
+  font-size: 70px !important;
+}
+.intro-bg {
+  min-height: 100vh;
+  background-image: url('/Users/nghiahoang/Documents/nghiahoang/Study/portfolio/src/Intro/IMG_0265.jpg');
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Merriweather', serif;
+  color: white;
+  font-weight: bold;
+}
+
+.intro-line {
+  position: absolute;
+  color: #F7ECDE;
+}
+
+.intro-line span {
+  display: inline-block;
+  opacity: 1;
+  transition: all 2s ease;
+  margin: 0 7px;
+}
+
+.intro-line.hidden span{
+  opacity: 0;
+}
+
+.intro-line.hidden span:nth-child(1){
+  transform: translateX(330px) translateY(130px);
+}
+
+.intro-line.hidden span:nth-child(2){
+  transform: translateX(150px) translateY(-40px);
+}
+
+.intro-line.hidden span:nth-child(3){
+  transform: translateX(-20px) translateY(200px);
+}
+
+.intro-line.hidden span:nth-child(4){
+  transform: translateX(-400px) translateY(-200px);
+}
+
+.intro-line.hidden span:nth-child(5){
+  transform: translateX(100px) translateY(-300px);
+}
+
+.intro-line.hidden span:nth-child(6){
+  transform: translateX(-100px) translateY(-250px);
+}
+
+.intro-line.hidden span:nth-child(7){
+  transform: translateX(20px) translateY(-50px);
+}
+
+.intro-line.hidden span:nth-child(8){
+  transform: translateX(-120px) translateY(-70px);
+}
+
+.intro-line.hidden span:nth-child(9){
+  transform: translateX(700px) translateY(-300px);
+}
+
+.intro-line.hidden span:nth-child(10){
+  transform: translateX(-500px) translateY(200px);
+}
+
+.intro-line.hidden span:nth-child(11){
+  transform: translateX(0px) translateY(60px);
+}
+
+.intro-line.hidden span:nth-child(12){
+  transform: translateX(400px) translateY(-130px);
+}
+
+.intro-line.hidden span:nth-child(13){
+  transform: translateX(-600px) translateY(65px);
+}
+
+.intro-line.hidden span:nth-child(14){
+  transform: translateX(-700px) translateY(-200px);
+}
+
+.intro-line.hidden span:nth-child(15){
+  transform: translateX(-30px) translateY(70px);
+}
+
+.intro-line.hidden span:nth-child(16){
+  transform: translateX(350px) translateY(100px);
+}
+
+.intro-line.hidden span:nth-child(17){
+  transform: translateX(-400px) translateY(200px);
+}
+
+.space {
+  padding-right: 30px;
+}
+
+.welcome-line-ctn {
+  transform: translateY(30px);
+  color: black;
+  padding: 2px 10px;
+  font-size: 40px;
+}
+
+.welcome-line span:nth-child(1) {
+  letter-spacing: 20px;
+  background-color: #F7ECDE;
+  font-style: italic;
+  margin-right: 0;
+  padding-left: 5px;
+}
+
+.welcome-line span:nth-child(2) {
+  background-color: #F7ECDE;
+  margin: 0;
+  padding: 0 5px;
+}
