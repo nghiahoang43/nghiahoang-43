@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/nghiahoang-43/static/css/main.b03521f3.css",
-    "main.js": "/nghiahoang-43/static/js/main.7fc9489e.js",
+    "main.css": "/nghiahoang-43/static/css/main.32c1a128.css",
+    "main.js": "/nghiahoang-43/static/js/main.4d0e7dc6.js",
     "static/js/787.6631a9a6.chunk.js": "/nghiahoang-43/static/js/787.6631a9a6.chunk.js",
     "static/media/portfolio-image.png": "/nghiahoang-43/static/media/portfolio-image.749c3f342ead63c4902f.png",
     "static/media/CFM-image.png": "/nghiahoang-43/static/media/CFM-image.ba1fb9b6d18565602ac3.png",
@@ -17,12 +17,12 @@
     "static/media/revicons.ttf": "/nghiahoang-43/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/nghiahoang-43/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/nghiahoang-43/index.html",
-    "main.b03521f3.css.map": "/nghiahoang-43/static/css/main.b03521f3.css.map",
-    "main.7fc9489e.js.map": "/nghiahoang-43/static/js/main.7fc9489e.js.map",
+    "main.32c1a128.css.map": "/nghiahoang-43/static/css/main.32c1a128.css.map",
+    "main.4d0e7dc6.js.map": "/nghiahoang-43/static/js/main.4d0e7dc6.js.map",
     "787.6631a9a6.chunk.js.map": "/nghiahoang-43/static/js/787.6631a9a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b03521f3.css",
-    "static/js/main.7fc9489e.js"
+    "static/css/main.32c1a128.css",
+    "static/js/main.4d0e7dc6.js"
   ]
 }
