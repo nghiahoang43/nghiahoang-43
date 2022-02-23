@@ -130,7 +130,7 @@ const Experience = () => {
           </div>
           <div className="crs-card">
             <div className="crs-card_img">
-              <img src={portfolio} alt="third-slide"></img>
+              <img src={portfolio} alt="fourth-slide"></img>
             </div>
             <div className="crs-footer">
               <Description desc={description[3]} tool = {tools[4]}></Description>
