@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nghiahoang-43/static/css/main.b03521f3.css",
-    "main.js": "/nghiahoang-43/static/js/main.d6fb0615.js",
+    "main.js": "/nghiahoang-43/static/js/main.7fc9489e.js",
     "static/js/787.6631a9a6.chunk.js": "/nghiahoang-43/static/js/787.6631a9a6.chunk.js",
     "static/media/portfolio-image.png": "/nghiahoang-43/static/media/portfolio-image.749c3f342ead63c4902f.png",
     "static/media/CFM-image.png": "/nghiahoang-43/static/media/CFM-image.ba1fb9b6d18565602ac3.png",
@@ -10,19 +10,19 @@
     "static/media/gym.jpg": "/nghiahoang-43/static/media/gym.443f6f248ad2d20a1c13.jpg",
     "static/media/about-img.jpg": "/nghiahoang-43/static/media/about-img.025aa9145b677edc7c17.jpg",
     "static/media/IMG_0265.jpg": "/nghiahoang-43/static/media/IMG_0265.1926820bae970126920b.jpg",
+    "static/media/Nghia_Hoang_Resume.pdf": "/nghiahoang-43/static/media/Nghia_Hoang_Resume.a2a529c5f24e7f2204a2.pdf",
     "static/media/real-madrid-img.jpg": "/nghiahoang-43/static/media/real-madrid-img.1db1352c69a645c62110.jpg",
     "static/media/MM-image.png": "/nghiahoang-43/static/media/MM-image.dbacad2f0f4384a2edb1.png",
-    "static/media/Nghia_Hoang_Resume.pdf": "/nghiahoang-43/static/media/Nghia_Hoang_Resume.1a8d2a13605e3203cc4a.pdf",
     "static/media/revicons.eot": "/nghiahoang-43/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/nghiahoang-43/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/nghiahoang-43/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/nghiahoang-43/index.html",
     "main.b03521f3.css.map": "/nghiahoang-43/static/css/main.b03521f3.css.map",
-    "main.d6fb0615.js.map": "/nghiahoang-43/static/js/main.d6fb0615.js.map",
+    "main.7fc9489e.js.map": "/nghiahoang-43/static/js/main.7fc9489e.js.map",
     "787.6631a9a6.chunk.js.map": "/nghiahoang-43/static/js/787.6631a9a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b03521f3.css",
-    "static/js/main.d6fb0615.js"
+    "static/js/main.7fc9489e.js"
   ]
 }
