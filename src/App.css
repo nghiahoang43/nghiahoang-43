@@ -34,13 +34,18 @@
   font-family: 'Merriweather', serif;
 }
 
-.active {
+/* .active {
   color: white !important;
-}
+} */
 
 .navbar-brand {
   font-size: 30px !important;
   font-style: italic;
+}
+
+.second-nav {
+  background-color: #90E0EF;
+  transition: 0.3s;
 }
 
 @keyframes App-logo-spin {
