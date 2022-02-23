@@ -138,7 +138,7 @@ const Experience = () => {
               <div className="github-icn">
                 <a
                   className="github-link"
-                  href="https://github.com/nghiahoang43/to-do-list"
+                  href="https://github.com/nghiahoang43/nghiahoang-43"
                   target="_blank"
                   rel="noreferrer"
                 >
